@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\BankAppU\BankAppU\bin\Debug\BankAppU.exe.config
+C:\Users\User\source\repos\BankAppU\BankAppU\bin\Debug\BankAppU.exe
+C:\Users\User\source\repos\BankAppU\BankAppU\bin\Debug\BankAppU.pdb
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.csprojAssemblyReference.cache
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.Form1.resources
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.Properties.Resources.resources
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.exe
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.pdb
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.FormRegistration.resources
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.LogPassRegistration.resources
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.ClientForm.resources
+C:\Users\User\source\repos\BankAppU\BankAppU\obj\Debug\BankAppU.AdminForm.resources
